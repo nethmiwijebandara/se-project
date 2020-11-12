@@ -1,0 +1,14 @@
+{
+    "_id": ObjectId("5d9e0173c1305d2a54eb431a"),
+    "title": "The Polyglot Developer Podcast",
+    "author": "Nic Raboy",
+    "tags": ["development","programming"]
+}
+
+{
+    "_id": ObjectId("5d9f4701e9948c0f65c9165d"),
+    "podcast": ObjectId("5d9e0173c1305d2a54eb431a"),
+    "title": "GraphQL for API Development",
+    "description": "Learn about GraphQL development in this episode of the podcast.",
+    "duration": 25
+} 
